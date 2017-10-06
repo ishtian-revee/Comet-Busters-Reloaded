@@ -39,8 +39,8 @@ All these additional libraries are in `lib/` directory.
 ## Gameplay and concept
 
 After a smooth splash screen main menu state appears. User will find total of
-4 options in the main menu which are **start game**, **high scores**, **option**
-and **exit game**.
+4 options in the main menu which are **start game**, **high scores**,
+**options** and **exit game**.
 
 After starting the game users will have full on control over the player to move
 from one place to other and shoot lasers.
@@ -82,3 +82,21 @@ gets higher. The number of comets increases.
 If the player loose all of its life the game over. After game over user has to
 input their name in 3 letters (roll up and down like slots to input the username)
 and enter. The score along with the name will store in the high score table.
+
+### High Scores
+
+This screen shows all the scores and names of the user in a single table. This
+table is sorted in ascending order with the player score. High scores will show
+at the top of the table along with the username.
+
+### Options
+
+This game has only one setting option which is to turning on or off the
+background music while playing.
+
+**[Note: After turning off the music when the player again turn it on then the
+music will start from the beginning.]**
+
+### Exit Game
+
+This will close the game.
