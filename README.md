@@ -45,7 +45,7 @@ After a smooth splash screen main menu state appears. User will find total of
 After starting the game users will have full on control over the player to move
 from one place to other and shoot lasers.
 
-Controls:
+### Controls
 
 Up: `W` or `up arrow`
 
@@ -100,3 +100,22 @@ music will start from the beginning.]**
 ### Exit Game
 
 This will close the game.
+
+## Powerups
+
+There are total of 7 powerups in the game which are:
+
+* +life: increases lives
+
+* +power: increases laser power to dual beams and triple beams
+
+* +mode: increases ship modes to change the player ship (there are total of 3
+  ship modes)
+
+* +10: increases to 10 xp
+
+* +50: increases to 10 xp
+
+* +100: increases to 10 xp
+
+* slow mo: slowing down all the live components for 7 seconds
