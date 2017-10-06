@@ -119,3 +119,27 @@ There are total of 7 powerups in the game which are:
 * +100: increases to 10 xp
 
 * slow mo: slowing down all the live components for 7 seconds
+
+## Drawbacks
+
+There are some major issues in the game. Users need to keep in mind these issues
+to play and while playing the game. These are:
+
+* As I was a beginner in game development I didn't think about the game window
+at the first place. That is why I set the window size to **640*960** as I have a
+wide screen monitor. That is why user needs to have a minimum display resolution
+of **1920*1080** or higher. Lower resolution will mess up everything. User can
+change the width and height of the window from `Launcher.java` but it won't
+help anything. Everything will be still messed up.
+
+* After turning off the music when the player again turn it on then the music
+will start from the beginning.
+
+* When the player collides with the comets it won't show anything. Perhaps it
+just decrease the player life.
+
+* While the slow mo is occurring if the screen has new comets then these new
+comets won't be slow down for that slow mo time.
+
+* After game over when users need to input their names in roll over mechanic
+they will find that the roll over are way too fast.
