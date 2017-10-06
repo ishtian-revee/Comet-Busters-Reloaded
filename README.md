@@ -19,9 +19,10 @@ of Java that has been used in this game developments are:
 
 ---
 
-Tools used: `Eclipse IDE` `Adobe Fireworks`
+Tools used: `Eclipse IDE` and `Adobe Fireworks`
 
 Game Assets: `Kenney`
+
 Background Music: `Geoplex`
 
 All the game components textures has been cropped from a single sprite sheet
@@ -114,9 +115,9 @@ There are total of 7 powerups in the game which are:
 
 * +10: increases to 10 xp
 
-* +50: increases to 10 xp
+* +50: increases to 50 xp
 
-* +100: increases to 10 xp
+* +100: increases to 100 xp
 
 * slow mo: slowing down all the live components for 7 seconds
 
