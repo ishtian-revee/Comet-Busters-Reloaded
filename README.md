@@ -121,6 +121,12 @@ There are total of 7 powerups in the game which are:
 
 * slow mo: slowing down all the live components for 7 seconds
 
+## Compilation
+
+Run `Launcher.java` from any IDE (which supports java).
+
+The path for this java file is `src/dev/rev/cometbusters/Launcher.java`
+
 ## Drawbacks
 
 There are some major issues in the game. Users need to keep in mind these issues
