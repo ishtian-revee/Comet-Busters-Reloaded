@@ -162,3 +162,15 @@ comets won't be slow down for that slow mo time.
 
 * After game over when users need to input their names in roll over mechanic
 they will find that the roll over are way too fast.
+
+## XCode
+
+**Note: This section is not for the readers. Ignore this section.**
+
+Missed file: `Game.java`
+
+Line: `123`
+
+Path: `X Codes/Comet Busters Reloaded/x_codes.txt`
+
+This file is not included here.
