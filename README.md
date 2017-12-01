@@ -130,12 +130,12 @@ The path for this java file is `src/dev/rev/cometbusters/Launcher.java`
 ## Gameplay
 
 The gameplay of this game has been uploaded in YouTube. The gameplay video link
-is given: `https://www.youtube.com/watch?v=30-ef0iPMZE&t=1s`
+is given: https://www.youtube.com/watch?v=30-ef0iPMZE&t=1s
 
 ## Game
 
 The game is completely FREE! Link for the jar file of the game is given:
-`https://goo.gl/udx3gz`
+https://goo.gl/udx3gz
 
 **Download Zip -> Extract -> Double click on the jar file -> Play**
 
